@@ -13,11 +13,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anarogk&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anarogk&theme=rose_pine&no-frame=true-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anarogk&icon=6&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Anarogk&icon=6&color=5)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Anarogk&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
