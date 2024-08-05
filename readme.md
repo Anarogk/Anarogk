@@ -27,7 +27,7 @@
 	<img title="javascript" alt="javascript" src="assets/javascript.svg" width="60" height="60" style="vertical-align:down; margin:4px"/> 
 	<img title="Nodejs" alt="Nodejs" src="assets/nodejs.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="Reactjs" alt="Reactjs" src="assets/react.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
-	<img title="vim" alt="vim" src="assets/vim.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
+	<img title="vim" alt="vim" src="assets/Vim.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="linux" alt="linux" src="assets/linux.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="vs-code" alt="vs-code" src="assets/vscode.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="vs-studio" alt="vs-studio" src="assets/vs-studio.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
