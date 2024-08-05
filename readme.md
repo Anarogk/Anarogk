@@ -1,7 +1,7 @@
 
 
 ## 👋 Hi , I'm Anurag
-## 💻 I'm a recent Computer Science Graduate.<br><br>
+ 💻 I'm a recent Computer Science Graduate.
 ### 💫 About Me:
 🔭  **I’m currently working on  :**     Networking in c++ and go, Backend in 🍀**Spring(java).** and getting a job🙂.<br>
 👯  **I’m looking to collaborate on:**   Software Development; Web Projects; <br>
