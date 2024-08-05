@@ -3,7 +3,7 @@
 ## 👋 Hi , I'm Anurag
  💻 I'm a recent AI & ML(B.E) Graduate<br>
  💼 actively seeking a job.<br>
- 🎓 Graduated in July.<br>
+ 🎓 Graduated in July 2024.<br>
  
 ### 💫 About Me:
 👯  **I’m looking to collaborate on:**   Software Development; Web Projects; <br>
