@@ -61,6 +61,8 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anarogk&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  <br>  -->       
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Anarogk&theme=rose_pine&hide_border=false)-->
+
+<br><br>
 **🌐 Socials:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragmunde) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anuragmunde002) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/gosUCKadikC) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/anar0gk02) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AnuragMunde) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@anar0gk158) 
 
 <!--## 🏆 GitHub Trophies
