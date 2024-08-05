@@ -1,12 +1,15 @@
 
 
 ## 👋 Hi , I'm Anurag
- 💻 I'm a recent Computer Science Graduate.
+ 💻 I'm a recent AI & ML(B.E) Graduate<br>
+ 💼 actively seeking a job.<br>
+ 🎓 Graduated in July.<br>
+ 
 ### 💫 About Me:
 🔭  **I’m currently working on  :**     Networking in c++ and go, Backend in 🍀**Spring(java).** and getting a job🙂.<br>
 👯  **I’m looking to collaborate on:**   Software Development; Web Projects; <br>
 🌱  **I’m currently learning:**          Multiplayer game Server; Torrent-client in go;<br>
-💬  **Status Right now:**                Recent Computer Science graduate actively seeking a job.<br><br>
+
 
 <!-- # 🌱 I’m currently learning:   Multiplayer game Server; Torrent-client in go;<br> -->
 <!-- # 💫 About Me: -->
