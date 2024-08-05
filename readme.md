@@ -6,9 +6,8 @@
  🎓 Graduated in July.<br>
  
 ### 💫 About Me:
-🔭  **I’m currently working on  :**     Networking in c++ and go, Backend in 🍀**Spring(java).** and getting a job🙂.<br>
 👯  **I’m looking to collaborate on:**   Software Development; Web Projects; <br>
-🌱  **I’m currently learning:**          Multiplayer game Server; Torrent-client in go;<br>
+🌱  **I’m currently learning:**          Multiplayer game Server; 
 
 
 <!-- # 🌱 I’m currently learning:   Multiplayer game Server; Torrent-client in go;<br> -->
