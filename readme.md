@@ -56,7 +56,7 @@
 	<!-- <img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" style="vertical-align:down; margin:4px"/> -->
 </p>
 
-
+<!--
 ### 📊 GitHub Stats:<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anarogk&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  <br>       
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Anarogk&theme=rose_pine&hide_border=false)-->
