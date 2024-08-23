@@ -16,7 +16,7 @@
 
 ### 💻 Tech Stack:
 <p align="center">
-	<img title="Rust" alt="Rust" src="assets/Rust.png" width="60" height="60" style="vertical-align:down; margin:4px"/>
+	<img title="Rust" alt="Rust" src="assets/rust.png" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="Python" alt="Python" src="assets/python.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="Go" alt="Go" src="assets/go.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="c++" alt="C++" src="assets/c++.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
