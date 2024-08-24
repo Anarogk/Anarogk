@@ -2,12 +2,13 @@
 
 ## 👋 Hi , I'm Anurag
  💻 I'm a recent AI & ML(B.E) Graduate<br>
- 💼 actively seeking a job.<br>
+ 💼 Actively seeking a job.<br>
  🎓 Graduated in July 2024.<br>
  
 ### 💫 About Me:
 👯  **I’m looking to collaborate on:**   ML projects; Software Development; Web Projects; <br>
-🌱  **I’m currently learning:**          Multiplayer game Server; 
+🌱  **I’m currently learning:**          Rust Embedded Programming🦀,
+					 GPU compiler 🟩 ; 
 
 
 <!-- # 🌱 I’m currently learning:   Multiplayer game Server; Torrent-client in go;<br> -->
