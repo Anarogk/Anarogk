@@ -21,7 +21,7 @@
 	<img title="Python" alt="Python" src="assets/python.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="Go" alt="Go" src="assets/go.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="c++" alt="C++" src="assets/c++.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
-	<img title="java" alt="java" src="assets/java.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
+	<!--<img title="java" alt="java" src="assets/java.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>-->
 	<img title="spring" alt="spring" src="assets/spring.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="javascript" alt="javascript" src="assets/javascript.svg" width="60" height="60" style="vertical-align:down; margin:4px"/> 
 	<img title="Nodejs" alt="Nodejs" src="assets/nodejs.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
