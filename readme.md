@@ -8,8 +8,7 @@
  
 ### 💫 About Me:
 #### 👯  **I’m looking to collaborate on  :**  ML projects; Software Development; Web Projects; <br>
-#### 🌱  **I’m currently learning  :**          Rust Embedded Programming🦀, 
-					  GPU compiler 🟩 ; 
+#### 🌱  **I’m currently learning  :**          Rust Embedded Programming🦀.
 
 
 <!-- # 🌱 I’m currently learning:   Multiplayer game Server; Torrent-client in go;<br> -->
