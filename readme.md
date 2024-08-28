@@ -4,6 +4,7 @@
  💻 I'm a recent **AI & ML(B.E) Graduate**<br>
  💼 Actively seeking a job.<br>
  🎓 Graduated in July 2024.<br>
+ 📃 My [Portfolio](https://anuragmunde.framer.website/)         [⬇ Download Resume](https://framerusercontent.com/assets/hZGsHO5nMwMkWd5U8d2Uro8sck.pdf)
  
 ### 💫 About Me:
 👯  **I’m looking to collaborate on:**  <br>ML projects; Software Development; Web Projects; <br>
@@ -65,9 +66,11 @@
 
 <br><br>
 **🌐 Socials:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragmunde) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anuragmunde002) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/gosUCKadikC) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/anar0gk02) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AnuragMunde) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@anar0gk158) 
+<br>
+## 📈 Leetcode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/Anar0gk?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anarogk&theme=rose_pine&no-frame=true-bg=true&margin-w=4)
+<!--![](https://github-profile-trophy.vercel.app/?username=Anarogk&theme=rose_pine&no-frame=true-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anarogk&icon=6&color=5)](https://visitcount.itsvg.in)-->
