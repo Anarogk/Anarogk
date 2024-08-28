@@ -7,8 +7,8 @@
  📃 My [Portfolio](https://anuragmunde.framer.website/)         [⬇ Download Resume](https://framerusercontent.com/assets/hZGsHO5nMwMkWd5U8d2Uro8sck.pdf)
  
 ### 💫 About Me:
-👯  **I’m looking to collaborate on:**  <br>ML projects; Software Development; Web Projects; <br>
-🌱  **I’m currently learning:**          <br>Rust Embedded Programming🦀, 
+#### 👯  **I’m looking to collaborate on  :**  ML projects; Software Development; Web Projects; <br>
+#### 🌱  **I’m currently learning  :**          Rust Embedded Programming🦀, 
 					  GPU compiler 🟩 ; 
 
 
