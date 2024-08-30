@@ -4,7 +4,8 @@
  💻 I'm a recent **AI & ML(B.E) Graduate**<br>
  💼 Actively seeking a job.<br>
  🎓 Graduated in July 2024.<br>
- 📃 My [Portfolio](https://anuragmunde.framer.website/)         [⬇ Download Resume](https://framerusercontent.com/assets/hZGsHO5nMwMkWd5U8d2Uro8sck.pdf)
+ 📃 My [Portfolio](https://anuragmunde.framer.website/)         [⬇ Download Resume](https://framerusercontent.com/assets/hZGsHO5nMwMkWd5U8d2Uro8sck.pdf) <br>
+ 📕 Currently reading :  [100 go mistakes](https://github.com/teivah/100-go-mistakes/)
  
 ### 💫 About Me:
 #### 👯  **I’m looking to collaborate on  :**  ML projects; Software Development; Web Projects; <br>
