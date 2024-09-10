@@ -18,7 +18,8 @@
 <!-- 🔭 I’m currently working on  :    Networking in c++ , go ;  Backend in Spring(java).<br>👯 I’m looking to collaborate on:   Web Projects; <br>🌱 I’m currently learning:   Multiplayer game Server; Torrent-client in go;<br>💬 Status Right now:   recent Computer Science graduate actively seeking a job.<br>-->
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=rust,py,go,cpp,js,ts,nodejs,react,linux,mongodb,postgresql,nextjs,neovim,vscode,bash,git,kubernetes,docker,aws&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,cpp,js,nodejs,react,linux,mongodb,postgresql,neovim,vscode,bash,git,kubernetes,docker&perline=15)](https://skillicons.dev)
+<!-- aws,nextjs,rust,ts-->
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,py,go,cpp,js,ts,nodejs,react,linux,mongodb,postgresql,nextjs,neovim,vscode,bash,git,kubernetes,docker,aws" />
