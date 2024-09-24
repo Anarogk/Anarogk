@@ -2,7 +2,7 @@
 
 ## 👋 Hi , I'm Anurag
  - 💻 I'm a recent **AI & ML (B.E) Graduate**<br>
- - 💼 Actively seeking a job.<br>
+ - 💼 SWE @ Cloudanix<br>
  - 🎓 Graduated in July 2024.<br>
  - 🕸 My [Portfolio](https://anuragmunde.framer.website/)         
  - 📃My Resume : [⬇ Download Resume](https://framerusercontent.com/assets/hZGsHO5nMwMkWd5U8d2Uro8sck.pdf) <br>
