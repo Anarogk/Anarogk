@@ -1,16 +1,15 @@
 
 
 ## 👋 Hi , I'm Anurag
- - 💻 I'm a recent **AI & ML (B.E) Graduate**<br>
- - 💼 SWE @ Cloudanix<br>
- - 🎓 Graduated in July 2024.<br>
+ - 💻 **AI & ML (B.E) Graduate**<br>
+ - 💼 SWE @ [Cloudanix](https://www.cloudanix.com/)<br><!-- - 🎓 Graduated in July 2024.<br> -->
  - 🕸 My [Portfolio](https://anuragmunde.framer.website/)         
  - 📃My Resume : [⬇ Download Resume](https://framerusercontent.com/assets/hZGsHO5nMwMkWd5U8d2Uro8sck.pdf) <br>
- - 📕 Currently reading :  [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
+ - 📕 Currently reading :  The Book of kubernetes ([preview](https://nostarch.com/download/BookofKubernetes_TOC.pdf))
  
 ## 💫 About Me:
-- 👯  **I’m looking to collaborate on  :**  ML projects; Software Development; Web Projects; <br>
-- 🌱  **I’m currently learning  :**          🦀 Rust Embedded Programming.
+- 👯  **I’m looking to collaborate on  :** `ML projects; Software Development; Web Projects;` <br>
+- 🌱  **I’m currently learning  :**         ☸️ `Kubernetes.`
 
 
 <!-- # 🌱 I’m currently learning:   Multiplayer game Server; Torrent-client in go;<br> -->
