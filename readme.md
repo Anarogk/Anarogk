@@ -4,7 +4,7 @@
  - 💻 **AI & ML (B.E) Graduate**<br>
  - 💼 SWE @ [Cloudanix](https://www.cloudanix.com/)<br><!-- - 🎓 Graduated in July 2024.<br> -->
  - 🕸 My [Portfolio](https://anuragmunde.framer.website/)         
- - 📃My Resume : [⬇ Download Resume](https://framerusercontent.com/assets/hZGsHO5nMwMkWd5U8d2Uro8sck.pdf) <br>
+ - 📃My Resume : [⬇ Download Resume](https://drive.usercontent.google.com/download?id=1RCh4CBZrzl6f6f264CReMTtfAbO2FRTn&export=download&authuser=0&confirm=t&uuid=dc3b8f19-3dc7-4ec0-a5ff-3bfe4ed49292&at=AN_67v3ItlTsWTbb1BWDgMUn06Xd:1728591632887) <br>
  - 📕 Currently reading :  The Book of kubernetes ([preview](https://nostarch.com/download/BookofKubernetes_TOC.pdf))
  
 ## 💫 About Me:
