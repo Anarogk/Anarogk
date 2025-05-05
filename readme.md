@@ -17,7 +17,7 @@
 <!-- 🔭 I’m currently working on  :    Networking in c++ , go ;  Backend in Spring(java).<br>👯 I’m looking to collaborate on:   Web Projects; <br>🌱 I’m currently learning:   Multiplayer game Server; Torrent-client in go;<br>💬 Status Right now:   recent Computer Science graduate actively seeking a job.<br>-->
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,go,cpp,js,nodejs,react,linux,mongodb,postgresql,neovim,vscode,bash,git,kubernetes,docker&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,cpp,js,nodejs,linux,mongodb,postgresql,neovim,vscode,bash,git,kubernetes,docker&perline=15)](https://skillicons.dev)
 <!-- aws,nextjs,rust,ts-->
 <!-- <p align="center">
   <a href="https://skillicons.dev">
@@ -29,10 +29,8 @@
 	<img title="Rust" alt="Rust" src="assets/rust.png" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="Python" alt="Python" src="assets/python.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="Go" alt="Go" src="assets/go.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
-	<img title="c++" alt="C++" src="assets/c++.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="javascript" alt="javascript" src="assets/javascript.svg" width="60" height="60" style="vertical-align:down; margin:4px"/> 
 	<img title="Nodejs" alt="Nodejs" src="assets/nodejs.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
-	<img title="Reactjs" alt="Reactjs" src="assets/react.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="vim" alt="vim" src="assets/Vim.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="linux" alt="linux" src="assets/linux.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="vs-code" alt="vs-code" src="assets/vscode.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
@@ -43,7 +41,6 @@
 	<img title="bash" alt="bash" src="assets/bash.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="AWS" alt="AWS" src="assets/amazon.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="mongodb" alt="mongodb" src="assets/mongodb.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
-	<img title="redis" alt="redis" src="assets/redis.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="postgres" alt="postgres" src="assets/postgresql.svg" width="60" height="60" style="vertical-align:down; margin:4px"/>
 	<img title="flask" alt="flask" src="assets/flask.svg" width="60" height="60" style="vertical-align:down; margin:4px"/> -->
 </p>
